@@ -1,0 +1,36 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "fact": "Cats sleep for around 13 to 16 hours a day, which means they spend about 70% of their lives sleeping."
+    },
+    {
+      "id": 2,
+      "fact": "A group of cats is called a clowder."
+    },
+    {
+      "id": 3,
+      "fact": "Cats have five toes on their front paws, but only four toes on their back paws."
+    },
+    {
+      "id": 4,
+      "fact": "A cat’s whiskers are roughly as wide as its body, helping it gauge whether it can fit through openings."
+    },
+    {
+      "id": 5,
+      "fact": "Adult cats only meow to communicate with humans, not other cats."
+    },
+    {
+      "id": 6,
+      "fact": "The oldest known pet cat existed 9,500 years ago and was discovered in a Neolithic grave in Cyprus."
+    },
+    {
+      "id": 7,
+      "fact": "Cats can rotate their ears 180 degrees using the 32 muscles in each ear."
+    },
+    {
+      "id": 8,
+      "fact": "The world’s largest cat measured 48.5 inches long."
+    }
+  ]
+}
