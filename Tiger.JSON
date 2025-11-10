@@ -1,0 +1,36 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "fact": "Tigers are the largest wild cats in the world, with males weighing up to 300 kilograms (660 pounds)."
+    },
+    {
+      "id": 2,
+      "fact": "No two tigers have the same stripe pattern—it’s unique like a fingerprint."
+    },
+    {
+      "id": 3,
+      "fact": "A tiger’s roar can be heard up to 3 kilometers (1.8 miles) away."
+    },
+    {
+      "id": 4,
+      "fact": "Tigers are strong swimmers and often cool off in lakes and rivers."
+    },
+    {
+      "id": 5,
+      "fact": "Unlike most cats, tigers love water and can swim several kilometers at a time."
+    },
+    {
+      "id": 6,
+      "fact": "The Siberian tiger is the largest subspecies of tiger."
+    },
+    {
+      "id": 7,
+      "fact": "Tigers can leap more than 30 feet (9 meters) in a single bound."
+    },
+    {
+      "id": 8,
+      "fact": "A group of tigers is called a 'streak' or 'ambush,' though they are mostly solitary animals."
+    }
+  ]
+}

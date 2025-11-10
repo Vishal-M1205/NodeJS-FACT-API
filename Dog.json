@@ -1,0 +1,36 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "fact": "Dogs have an extraordinary sense of smell, estimated to be 40 times better than that of humans."
+    },
+    {
+      "id": 2,
+      "fact": "A dog’s nose print is unique, much like a human fingerprint."
+    },
+    {
+      "id": 3,
+      "fact": "Dogs can understand up to 250 words and gestures, making them as smart as a two-year-old child."
+    },
+    {
+      "id": 4,
+      "fact": "The Basenji is known as the 'barkless dog' because it produces yodel-like sounds instead of barks."
+    },
+    {
+      "id": 5,
+      "fact": "Dalmatians are born completely white and develop their spots as they grow."
+    },
+    {
+      "id": 6,
+      "fact": "Dogs sweat through the pads of their paws, not through their skin."
+    },
+    {
+      "id": 7,
+      "fact": "A Greyhound can run up to 45 miles per hour, making it one of the fastest dog breeds."
+    },
+    {
+      "id": 8,
+      "fact": "The Labrador Retriever has been the most popular dog breed in the U.S. for over 30 years."
+    }
+  ]
+}

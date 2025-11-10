@@ -1,0 +1,36 @@
+{
+  "facts": [
+    {
+     "id": 1,
+      "fact": "Horses can sleep both lying down and standing up."
+    },
+    {
+      "id": 2,
+      "fact": "A horse’s teeth never stop growing throughout its life."
+    },
+    {
+      "id": 3,
+      "fact": "Horses have nearly 360-degree vision because of the placement of their eyes."
+    },
+    {
+      "id": 4,
+      "fact": "Foals can stand and walk within hours of being born."
+    },
+    {
+      "id": 5,
+      "fact": "The fastest recorded sprinting speed of a horse is 55 mph (88.5 km/h)."
+    },
+    {
+      "id": 6,
+      "fact": "Horses communicate through facial expressions, ear movements, and vocal sounds."
+    },
+    {
+      "id": 7,
+      "fact": "A horse’s heart weighs around 9 to 10 pounds on average."
+    },
+    {
+      "id": 8,
+      "fact": "The Przewalski’s horse is the only true wild horse species still in existence."
+    }
+  ]
+}
